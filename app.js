@@ -1,1 +1,1 @@
-// create a new project - button
+// add a new features - button
